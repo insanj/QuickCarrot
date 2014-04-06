@@ -1,0 +1,10 @@
+Package: libactivator.quickcarrot
+Priority: optional
+Section: Tweaks
+Architecture: iphoneos-arm
+Version: 1.0
+Description: Create CARROT tasks from Activator.
+Name: QuickCarrot
+Depends: mobilesubstrate, libactivator
+Maintainer: insanj <me@insanj.com>
+Author: Julian "insanj" Weiss
